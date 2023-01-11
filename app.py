@@ -57,23 +57,25 @@ col1, col2 = st.columns(2)
 with col1:
 
 	plt.style.use('ggplot')
-
+	default_x_ticks = list(range(len(country_data['year']))) # create an index for each tick position
 	fig, ax1 = plt.subplots()
 	plt.axis([None,None,0, 100]) # plt size (0, 100) to show the percentage properly
 
-	ax1.bar(country_data['year'], country_data['GOV'])
+	ax1.bar(default_x_ticks, country_data['GOV'])
 	plt.title("Goverment", fontsize=10)
+	plt.xticks(default_x_ticks, country_data['year'], rotation='vertical') # replacing indexes with years 
 	st.pyplot(fig)
 
 # parlament
 
 with col2:
 	plt.style.use('ggplot')
-	
+	default_x_ticks = list(range(len(country_data['year']))) # # create an index for each tick position
 	fig, ax2 = plt.subplots()
 	plt.axis([None,None,0, 100]) # plt size (0, 100) to show the percentage properly
 
-	ax2.bar(country_data['year'], country_data['PARL'], color='dodgerblue')
+	ax2.bar(default_x_ticks, country_data['PARL'], color='dodgerblue') 
 	plt.title("Parlament", fontsize=10)
+	plt.xticks(default_x_ticks, country_data['year'], rotation='vertical') # replacing indexes with years
 	st.pyplot(fig)
 
