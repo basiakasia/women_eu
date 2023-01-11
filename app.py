@@ -44,7 +44,7 @@ print(country_data['GOV'])
 print(country_data['PARL'])
 print(country_data)
 
-st.dataframe(country_data, width=100)
+st.dataframe(country_data, width=400)
 
 # ---- COLUMNS -----
 
