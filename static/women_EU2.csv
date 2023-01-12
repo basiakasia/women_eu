@@ -1,0 +1,801 @@
+geo,year,GOV,PARL,country
+AL,2003,,,Albania
+AL,2004,,,Albania
+AL,2005,,,Albania
+AL,2006,,,Albania
+AL,2007,,,Albania
+AL,2008,,,Albania
+AL,2009,,,Albania
+AL,2010,,,Albania
+AL,2011,,,Albania
+AL,2012,,,Albania
+AL,2013,,,Albania
+AL,2014,,,Albania
+AL,2015,,,Albania
+AL,2016,,,Albania
+AL,2017,,,Albania
+AL,2018,46.5,29.3,Albania
+AL,2019,48.8,30.3,Albania
+AL,2020,47.7,29.8,Albania
+AL,2021,59.5,35.7,Albania
+AL,2022,,,Albania
+AT,2003,26.7,33.7,Austria
+AT,2004,27.8,30.5,Austria
+AT,2005,37.5,31.4,Austria
+AT,2006,33.3,31.0,Austria
+AT,2007,35.0,30.6,Austria
+AT,2008,35.0,29.9,Austria
+AT,2009,33.3,26.7,Austria
+AT,2010,38.9,29.4,Austria
+AT,2011,33.3,28.6,Austria
+AT,2012,33.3,29.0,Austria
+AT,2013,33.3,32.1,Austria
+AT,2014,31.3,30.3,Austria
+AT,2015,31.3,30.5,Austria
+AT,2016,25.0,30.7,Austria
+AT,2017,26.7,32.0,Austria
+AT,2018,37.5,36.5,Austria
+AT,2019,50.0,38.9,Austria
+AT,2020,52.9,39.8,Austria
+AT,2021,47.1,41.6,Austria
+AT,2022,44.4,41.4,Austria
+BA,2003,,,Bosnia and Herzegovina
+BA,2004,,,Bosnia and Herzegovina
+BA,2005,,,Bosnia and Herzegovina
+BA,2006,,,Bosnia and Herzegovina
+BA,2007,,,Bosnia and Herzegovina
+BA,2008,,,Bosnia and Herzegovina
+BA,2009,,,Bosnia and Herzegovina
+BA,2010,,,Bosnia and Herzegovina
+BA,2011,,,Bosnia and Herzegovina
+BA,2012,,,Bosnia and Herzegovina
+BA,2013,,,Bosnia and Herzegovina
+BA,2014,,,Bosnia and Herzegovina
+BA,2015,,,Bosnia and Herzegovina
+BA,2016,,,Bosnia and Herzegovina
+BA,2017,,,Bosnia and Herzegovina
+BA,2018,10.0,23.8,Bosnia and Herzegovina
+BA,2019,11.1,21.1,Bosnia and Herzegovina
+BA,2020,15.0,24.6,Bosnia and Herzegovina
+BA,2021,15.0,24.6,Bosnia and Herzegovina
+BA,2022,,,Bosnia and Herzegovina
+BE,2003,40.0,34.2,Belgium
+BE,2004,26.3,35.6,Belgium
+BE,2005,26.3,35.9,Belgium
+BE,2006,25.0,36.5,Belgium
+BE,2007,26.3,35.9,Belgium
+BE,2008,31.8,38.9,Belgium
+BE,2009,18.2,39.8,Belgium
+BE,2010,22.7,38.8,Belgium
+BE,2011,23.8,39.3,Belgium
+BE,2012,31.6,40.1,Belgium
+BE,2013,31.6,39.7,Belgium
+BE,2014,22.2,41.1,Belgium
+BE,2015,27.8,41.4,Belgium
+BE,2016,22.2,41.6,Belgium
+BE,2017,22.2,40.7,Belgium
+BE,2018,22.2,39.5,Belgium
+BE,2019,30.8,42.4,Belgium
+BE,2020,50.0,43.3,Belgium
+BE,2021,50.0,43.8,Belgium
+BE,2022,55.0,43.8,Belgium
+BG,2003,26.5,25.9,Bulgaria
+BG,2004,27.7,28.0,Bulgaria
+BG,2005,30.7,21.3,Bulgaria
+BG,2006,29.5,21.3,Bulgaria
+BG,2007,30.1,21.8,Bulgaria
+BG,2008,29.5,21.7,Bulgaria
+BG,2009,31.6,21.7,Bulgaria
+BG,2010,33.3,22.1,Bulgaria
+BG,2011,35.2,22.1,Bulgaria
+BG,2012,38.0,23.0,Bulgaria
+BG,2013,33.9,24.6,Bulgaria
+BG,2014,30.9,20.4,Bulgaria
+BG,2015,27.0,19.6,Bulgaria
+BG,2016,36.1,19.2,Bulgaria
+BG,2017,37.0,25.9,Bulgaria
+BG,2018,39.2,25.4,Bulgaria
+BG,2019,39.4,27.1,Bulgaria
+BG,2020,40.0,27.1,Bulgaria
+BG,2021,36.2,24.6,Bulgaria
+BG,2022,40.3,23.8,Bulgaria
+CY,2003,9.1,10.9,Cyprus
+CY,2004,0.0,9.1,Cyprus
+CY,2005,0.0,16.4,Cyprus
+CY,2006,0.0,16.4,Cyprus
+CY,2007,16.0,16.1,Cyprus
+CY,2008,12.0,16.1,Cyprus
+CY,2009,8.3,12.5,Cyprus
+CY,2010,16.7,12.5,Cyprus
+CY,2011,25.0,10.7,Cyprus
+CY,2012,33.3,10.7,Cyprus
+CY,2013,8.3,14.3,Cyprus
+CY,2014,8.3,14.3,Cyprus
+CY,2015,8.3,12.5,Cyprus
+CY,2016,8.3,17.9,Cyprus
+CY,2017,8.3,17.9,Cyprus
+CY,2018,16.7,18.2,Cyprus
+CY,2019,16.7,17.9,Cyprus
+CY,2020,25.0,22.2,Cyprus
+CY,2021,25.0,14.3,Cyprus
+CY,2022,16.7,14.3,Cyprus
+CZ,2003,,,Czechia
+CZ,2004,11.8,13.7,Czechia
+CZ,2005,9.5,14.7,Czechia
+CZ,2006,11.8,14.7,Czechia
+CZ,2007,16.7,14.2,Czechia
+CZ,2008,11.1,14.9,Czechia
+CZ,2009,17.6,17.9,Czechia
+CZ,2010,0.0,20.7,Czechia
+CZ,2011,6.3,21.3,Czechia
+CZ,2012,12.5,20.3,Czechia
+CZ,2013,6.7,18.9,Czechia
+CZ,2014,17.6,19.2,Czechia
+CZ,2015,17.6,19.6,Czechia
+CZ,2016,17.6,20.3,Czechia
+CZ,2017,11.8,21.4,Czechia
+CZ,2018,26.7,21.0,Czechia
+CZ,2019,26.7,20.6,Czechia
+CZ,2020,28.6,20.4,Czechia
+CZ,2021,28.6,21.8,Czechia
+CZ,2022,11.8,23.0,Czechia
+DE,2003,45.7,30.9,Germany (until 1990 former territory of the FRG)
+DE,2004,46.7,30.8,Germany (until 1990 former territory of the FRG)
+DE,2005,26.7,30.0,Germany (until 1990 former territory of the FRG)
+DE,2006,38.9,31.9,Germany (until 1990 former territory of the FRG)
+DE,2007,30.4,31.7,Germany (until 1990 former territory of the FRG)
+DE,2008,32.6,30.7,Germany (until 1990 former territory of the FRG)
+DE,2009,32.6,31.4,Germany (until 1990 former territory of the FRG)
+DE,2010,28.3,31.5,Germany (until 1990 former territory of the FRG)
+DE,2011,28.3,32.4,Germany (until 1990 former territory of the FRG)
+DE,2012,28.3,32.5,Germany (until 1990 former territory of the FRG)
+DE,2013,27.3,35.7,Germany (until 1990 former territory of the FRG)
+DE,2014,42.9,36.6,Germany (until 1990 former territory of the FRG)
+DE,2015,40.8,36.2,Germany (until 1990 former territory of the FRG)
+DE,2016,40.8,37.1,Germany (until 1990 former territory of the FRG)
+DE,2017,42.2,31.7,Germany (until 1990 former territory of the FRG)
+DE,2018,39.2,31.4,Germany (until 1990 former territory of the FRG)
+DE,2019,40.8,31.7,Germany (until 1990 former territory of the FRG)
+DE,2020,41.2,31.4,Germany (until 1990 former territory of the FRG)
+DE,2021,40.8,34.5,Germany (until 1990 former territory of the FRG)
+DE,2022,50.0,35.1,Germany (until 1990 former territory of the FRG)
+DK,2003,27.8,38.2,Denmark
+DK,2004,29.4,37.6,Denmark
+DK,2005,27.8,40.2,Denmark
+DK,2006,27.8,39.3,Denmark
+DK,2007,36.8,37.1,Denmark
+DK,2008,36.8,38.0,Denmark
+DK,2009,42.1,38.5,Denmark
+DK,2010,47.4,37.6,Denmark
+DK,2011,39.1,39.1,Denmark
+DK,2012,43.5,40.8,Denmark
+DK,2013,45.5,38.0,Denmark
+DK,2014,30.0,38.5,Denmark
+DK,2015,29.4,37.4,Denmark
+DK,2016,29.4,37.4,Denmark
+DK,2017,40.9,37.4,Denmark
+DK,2018,40.9,36.3,Denmark
+DK,2019,31.6,39.7,Denmark
+DK,2020,35.0,39.7,Denmark
+DK,2021,30.0,41.3,Denmark
+DK,2022,30.0,42.5,Denmark
+EE,2003,9.1,17.0,Estonia
+EE,2004,8.3,15.0,Estonia
+EE,2005,16.7,18.0,Estonia
+EE,2006,15.4,19.0,Estonia
+EE,2007,21.4,20.8,Estonia
+EE,2008,21.4,20.8,Estonia
+EE,2009,7.7,21.8,Estonia
+EE,2010,7.7,22.8,Estonia
+EE,2011,7.7,19.8,Estonia
+EE,2012,7.7,21.0,Estonia
+EE,2013,7.7,17.8,Estonia
+EE,2014,42.9,19.8,Estonia
+EE,2015,13.3,25.7,Estonia
+EE,2016,13.3,25.7,Estonia
+EE,2017,26.7,27.7,Estonia
+EE,2018,26.7,29.7,Estonia
+EE,2019,13.3,28.7,Estonia
+EE,2020,13.3,29.7,Estonia
+EE,2021,46.7,26.7,Estonia
+EE,2022,46.7,27.7,Estonia
+EL,2003,6.4,9.0,Greece
+EL,2004,4.5,13.0,Greece
+EL,2005,4.5,13.0,Greece
+EL,2006,7.7,12.7,Greece
+EL,2007,4.9,14.3,Greece
+EL,2008,7.3,16.0,Greece
+EL,2009,25.0,17.0,Greece
+EL,2010,20.4,17.0,Greece
+EL,2011,9.8,17.3,Greece
+EL,2012,4.0,21.0,Greece
+EL,2013,8.0,21.0,Greece
+EL,2014,8.0,21.0,Greece
+EL,2015,15.2,19.7,Greece
+EL,2016,17.4,18.3,Greece
+EL,2017,16.3,18.3,Greece
+EL,2018,25.5,18.3,Greece
+EL,2019,9.8,21.7,Greece
+EL,2020,11.3,21.7,Greece
+EL,2021,15.5,21.3,Greece
+EL,2022,15.3,19.0,Greece
+ES,2003,25.0,28.6,Spain
+ES,2004,43.8,31.6,Spain
+ES,2005,50.0,31.0,Spain
+ES,2006,50.0,30.7,Spain
+ES,2007,35.1,31.7,Spain
+ES,2008,43.9,33.3,Spain
+ES,2009,38.6,33.8,Spain
+ES,2010,35.7,34.6,Spain
+ES,2011,32.6,28.7,Spain
+ES,2012,26.3,37.2,Spain
+ES,2013,26.3,37.2,Spain
+ES,2014,34.2,37.7,Spain
+ES,2015,26.3,39.9,Spain
+ES,2016,25.7,38.3,Spain
+ES,2017,31.6,38.8,Spain
+ES,2018,51.2,39.5,Spain
+ES,2019,50.0,41.9,Spain
+ES,2020,46.9,42.2,Spain
+ES,2021,46.9,41.1,Spain
+ES,2022,48.0,41.0,Spain
+EU27_2020,2003,22.6,21.1,European Union - 27 countries (from 2020)
+EU27_2020,2004,19.7,21.4,European Union - 27 countries (from 2020)
+EU27_2020,2005,18.9,21.9,European Union - 27 countries (from 2020)
+EU27_2020,2006,22.2,22.2,European Union - 27 countries (from 2020)
+EU27_2020,2007,23.1,23.0,European Union - 27 countries (from 2020)
+EU27_2020,2008,23.6,23.8,European Union - 27 countries (from 2020)
+EU27_2020,2009,25.3,24.0,European Union - 27 countries (from 2020)
+EU27_2020,2010,25.0,24.0,European Union - 27 countries (from 2020)
+EU27_2020,2011,23.6,23.9,European Union - 27 countries (from 2020)
+EU27_2020,2012,25.2,25.9,European Union - 27 countries (from 2020)
+EU27_2020,2013,25.9,27.3,European Union - 27 countries (from 2020)
+EU27_2020,2014,27.7,27.8,European Union - 27 countries (from 2020)
+EU27_2020,2015,27.7,28.2,European Union - 27 countries (from 2020)
+EU27_2020,2016,27.6,28.4,European Union - 27 countries (from 2020)
+EU27_2020,2017,28.5,30.0,European Union - 27 countries (from 2020)
+EU27_2020,2018,30.1,30.9,European Union - 27 countries (from 2020)
+EU27_2020,2019,31.4,32.1,European Union - 27 countries (from 2020)
+EU27_2020,2020,32.7,32.7,European Union - 27 countries (from 2020)
+EU27_2020,2021,33.4,33.1,European Union - 27 countries (from 2020)
+EU27_2020,2022,33.9,32.5,European Union - 27 countries (from 2020)
+EU28,2003,23.3,20.5,European Union - 28 countries (2013-2020)
+EU28,2004,20.4,20.9,European Union - 28 countries (2013-2020)
+EU28,2005,20.0,21.5,European Union - 28 countries (2013-2020)
+EU28,2006,22.5,21.7,European Union - 28 countries (2013-2020)
+EU28,2007,24.2,22.5,European Union - 28 countries (2013-2020)
+EU28,2008,24.8,23.2,European Union - 28 countries (2013-2020)
+EU28,2009,25.8,23.4,European Union - 28 countries (2013-2020)
+EU28,2010,23.8,23.6,European Union - 28 countries (2013-2020)
+EU28,2011,22.7,23.6,European Union - 28 countries (2013-2020)
+EU28,2012,24.3,25.3,European Union - 28 countries (2013-2020)
+EU28,2013,25.2,26.7,European Union - 28 countries (2013-2020)
+EU28,2014,27.3,27.2,European Union - 28 countries (2013-2020)
+EU28,2015,27.4,28.0,European Union - 28 countries (2013-2020)
+EU28,2016,27.2,28.2,European Union - 28 countries (2013-2020)
+EU28,2017,28.2,29.8,European Union - 28 countries (2013-2020)
+EU28,2018,30.2,30.6,European Union - 28 countries (2013-2020)
+EU28,2019,31.4,31.7,European Union - 28 countries (2013-2020)
+EU28,2020,,,European Union - 28 countries (2013-2020)
+EU28,2021,,,European Union - 28 countries (2013-2020)
+EU28,2022,,,European Union - 28 countries (2013-2020)
+FI,2003,44.4,37.2,Finland
+FI,2004,47.1,38.2,Finland
+FI,2005,47.1,38.2,Finland
+FI,2006,37.0,38.2,Finland
+FI,2007,60.0,41.5,Finland
+FI,2008,60.0,41.3,Finland
+FI,2009,51.6,40.0,Finland
+FI,2010,51.6,39.5,Finland
+FI,2011,43.8,42.5,Finland
+FI,2012,46.9,42.5,Finland
+FI,2013,53.1,42.5,Finland
+FI,2014,53.6,42.0,Finland
+FI,2015,33.3,41.5,Finland
+FI,2016,35.3,42.0,Finland
+FI,2017,33.3,42.0,Finland
+FI,2018,38.1,41.5,Finland
+FI,2019,57.6,46.5,Finland
+FI,2020,54.5,46.0,Finland
+FI,2021,55.9,46.0,Finland
+FI,2022,52.9,45.5,Finland
+FR,2003,27.3,11.6,France
+FR,2004,20.5,14.1,France
+FR,2005,16.0,15.9,France
+FR,2006,20.7,14.7,France
+FR,2007,33.3,18.3,France
+FR,2008,34.2,19.8,France
+FR,2009,33.3,20.0,France
+FR,2010,34.2,20.4,France
+FR,2011,26.5,20.3,France
+FR,2012,48.7,24.6,France
+FR,2013,47.4,24.8,France
+FR,2014,47.1,26.0,France
+FR,2015,48.5,26.3,France
+FR,2016,47.4,26.2,France
+FR,2017,50.0,36.3,France
+FR,2018,48.6,37.0,France
+FR,2019,48.6,37.1,France
+FR,2020,51.2,38.6,France
+FR,2021,51.2,39.1,France
+FR,2022,50.0,36.6,France
+HR,2003,,,Croatia
+HR,2004,,,Croatia
+HR,2005,,,Croatia
+HR,2006,,,Croatia
+HR,2007,26.7,20.9,Croatia
+HR,2008,22.2,21.6,Croatia
+HR,2009,20.0,23.5,Croatia
+HR,2010,15.8,24.8,Croatia
+HR,2011,10.5,25.5,Croatia
+HR,2012,13.6,25.8,Croatia
+HR,2013,19.0,23.8,Croatia
+HR,2014,19.0,25.8,Croatia
+HR,2015,14.3,25.2,Croatia
+HR,2016,19.0,18.5,Croatia
+HR,2017,28.6,18.0,Croatia
+HR,2018,23.8,20.5,Croatia
+HR,2019,19.0,19.9,Croatia
+HR,2020,27.8,31.1,Croatia
+HR,2021,27.8,31.8,Croatia
+HR,2022,27.8,32.5,Croatia
+HU,2003,8.1,9.6,Hungary
+HU,2004,8.8,8.8,Hungary
+HU,2005,10.7,8.8,Hungary
+HU,2006,17.4,10.1,Hungary
+HU,2007,11.4,11.2,Hungary
+HU,2008,13.5,10.9,Hungary
+HU,2009,0.0,11.2,Hungary
+HU,2010,0.0,8.8,Hungary
+HU,2011,0.0,8.8,Hungary
+HU,2012,9.1,9.1,Hungary
+HU,2013,10.0,9.4,Hungary
+HU,2014,0.0,10.1,Hungary
+HU,2015,0.0,10.1,Hungary
+HU,2016,0.0,10.1,Hungary
+HU,2017,0.0,10.1,Hungary
+HU,2018,7.1,12.6,Hungary
+HU,2019,14.3,12.2,Hungary
+HU,2020,20.0,12.6,Hungary
+HU,2021,20.0,13.1,Hungary
+HU,2022,6.7,13.1,Hungary
+IE,2003,12.9,13.7,Ireland
+IE,2004,11.1,12.9,Ireland
+IE,2005,16.1,14.3,Ireland
+IE,2006,16.1,12.9,Ireland
+IE,2007,14.3,15.5,Ireland
+IE,2008,14.3,15.0,Ireland
+IE,2009,13.3,16.3,Ireland
+IE,2010,16.7,15.5,Ireland
+IE,2011,20.0,19.0,Ireland
+IE,2012,16.7,18.9,Ireland
+IE,2013,13.3,19.9,Ireland
+IE,2014,20.0,19.9,Ireland
+IE,2015,20.0,20.1,Ireland
+IE,2016,24.2,24.3,Ireland
+IE,2017,20.6,24.3,Ireland
+IE,2018,20.6,24.3,Ireland
+IE,2019,20.6,24.3,Ireland
+IE,2020,25.7,27.3,Ireland
+IE,2021,25.7,27.7,Ireland
+IE,2022,25.7,27.9,Ireland
+IS,2003,18.2,35.5,Iceland
+IS,2004,27.3,30.6,Iceland
+IS,2005,27.3,32.8,Iceland
+IS,2006,36.4,33.9,Iceland
+IS,2007,33.3,31.7,Iceland
+IS,2008,33.3,33.3,Iceland
+IS,2009,50.0,42.9,Iceland
+IS,2010,40.0,41.3,Iceland
+IS,2011,40.0,38.7,Iceland
+IS,2012,50.0,39.7,Iceland
+IS,2013,33.3,41.0,Iceland
+IS,2014,33.3,41.3,Iceland
+IS,2015,40.0,46.0,Iceland
+IS,2016,50.0,47.6,Iceland
+IS,2017,36.4,38.1,Iceland
+IS,2018,45.5,38.1,Iceland
+IS,2019,45.5,38.1,Iceland
+IS,2020,45.5,39.7,Iceland
+IS,2021,45.5,47.6,Iceland
+IS,2022,41.7,47.6,Iceland
+IT,2003,10.8,10.2,Italy
+IT,2004,10.5,9.9,Italy
+IT,2005,5.3,10.7,Italy
+IT,2006,21.6,16.1,Italy
+IT,2007,20.4,16.2,Italy
+IT,2008,14.8,20.2,Italy
+IT,2009,14.8,20.3,Italy
+IT,2010,19.4,20.2,Italy
+IT,2011,21.9,20.5,Italy
+IT,2012,13.0,20.6,Italy
+IT,2013,24.2,30.5,Italy
+IT,2014,27.1,30.3,Italy
+IT,2015,26.3,30.2,Italy
+IT,2016,25.4,30.1,Italy
+IT,2017,28.1,30.2,Italy
+IT,2018,16.7,35.3,Italy
+IT,2019,33.8,35.8,Italy
+IT,2020,33.8,35.6,Italy
+IT,2021,43.1,35.8,Italy
+IT,2022,31.1,33.0,Italy
+LI,2003,20.0,12.5,Liechtenstein
+LI,2004,33.3,12.5,Liechtenstein
+LI,2005,25.0,25.0,Liechtenstein
+LI,2006,25.0,25.0,Liechtenstein
+LI,2007,40.0,24.0,Liechtenstein
+LI,2008,40.0,24.0,Liechtenstein
+LI,2009,30.0,28.0,Liechtenstein
+LI,2010,30.0,24.0,Liechtenstein
+LI,2011,30.0,24.0,Liechtenstein
+LI,2012,30.0,24.0,Liechtenstein
+LI,2013,50.0,20.0,Liechtenstein
+LI,2014,50.0,20.0,Liechtenstein
+LI,2015,50.0,20.0,Liechtenstein
+LI,2016,55.6,20.0,Liechtenstein
+LI,2017,40.0,12.0,Liechtenstein
+LI,2018,40.0,16.0,Liechtenstein
+LI,2019,40.0,12.0,Liechtenstein
+LI,2020,40.0,12.0,Liechtenstein
+LI,2021,50.0,28.0,Liechtenstein
+LI,2022,50.0,28.0,Liechtenstein
+LT,2003,,,Lithuania
+LT,2004,15.4,22.1,Lithuania
+LT,2005,15.4,22.9,Lithuania
+LT,2006,23.1,22.1,Lithuania
+LT,2007,25.9,23.4,Lithuania
+LT,2008,18.5,23.4,Lithuania
+LT,2009,17.8,18.7,Lithuania
+LT,2010,19.6,19.1,Lithuania
+LT,2011,17.3,19.1,Lithuania
+LT,2012,13.7,23.7,Lithuania
+LT,2013,18.3,24.1,Lithuania
+LT,2014,20.4,23.6,Lithuania
+LT,2015,21.3,24.1,Lithuania
+LT,2016,24.1,21.3,Lithuania
+LT,2017,26.4,20.6,Lithuania
+LT,2018,25.5,22.0,Lithuania
+LT,2019,32.8,24.1,Lithuania
+LT,2020,33.3,26.2,Lithuania
+LT,2021,43.8,28.4,Lithuania
+LT,2022,41.5,27.7,Lithuania
+LU,2003,33.3,20.3,Luxembourg
+LU,2004,21.4,23.7,Luxembourg
+LU,2005,14.3,20.7,Luxembourg
+LU,2006,21.4,23.7,Luxembourg
+LU,2007,20.0,25.0,Luxembourg
+LU,2008,20.0,25.0,Luxembourg
+LU,2009,26.7,20.0,Luxembourg
+LU,2010,26.7,20.0,Luxembourg
+LU,2011,26.7,23.7,Luxembourg
+LU,2012,26.7,23.3,Luxembourg
+LU,2013,26.7,23.3,Luxembourg
+LU,2014,27.8,28.3,Luxembourg
+LU,2015,27.8,28.3,Luxembourg
+LU,2016,22.2,28.3,Luxembourg
+LU,2017,22.2,28.3,Luxembourg
+LU,2018,22.2,21.7,Luxembourg
+LU,2019,29.4,28.3,Luxembourg
+LU,2020,29.4,31.7,Luxembourg
+LU,2021,29.4,35.0,Luxembourg
+LU,2022,35.3,35.0,Luxembourg
+LV,2003,25.0,20.2,Latvia
+LV,2004,25.0,17.2,Latvia
+LV,2005,23.5,21.2,Latvia
+LV,2006,23.5,19.2,Latvia
+LV,2007,27.8,20.0,Latvia
+LV,2008,27.0,21.0,Latvia
+LV,2009,24.1,22.0,Latvia
+LV,2010,26.3,19.0,Latvia
+LV,2011,28.6,21.0,Latvia
+LV,2012,30.8,23.0,Latvia
+LV,2013,28.0,25.0,Latvia
+LV,2014,24.0,18.0,Latvia
+LV,2015,25.9,17.0,Latvia
+LV,2016,21.4,16.0,Latvia
+LV,2017,22.2,17.0,Latvia
+LV,2018,25.9,31.0,Latvia
+LV,2019,28.6,30.0,Latvia
+LV,2020,25.9,29.0,Latvia
+LV,2021,28.6,28.0,Latvia
+LV,2022,28.6,30.3,Latvia
+ME,2003,,,Montenegro
+ME,2004,,,Montenegro
+ME,2005,,,Montenegro
+ME,2006,,,Montenegro
+ME,2007,,,Montenegro
+ME,2008,,,Montenegro
+ME,2009,,,Montenegro
+ME,2010,,,Montenegro
+ME,2011,,,Montenegro
+ME,2012,,,Montenegro
+ME,2013,,,Montenegro
+ME,2014,,,Montenegro
+ME,2015,25.0,17.3,Montenegro
+ME,2016,18.2,23.5,Montenegro
+ME,2017,20.0,23.5,Montenegro
+ME,2018,21.1,23.5,Montenegro
+ME,2019,21.1,29.6,Montenegro
+ME,2020,21.1,25.6,Montenegro
+ME,2021,30.8,27.2,Montenegro
+ME,2022,,,Montenegro
+MK,2003,,,North Macedonia
+MK,2004,,,North Macedonia
+MK,2005,,,North Macedonia
+MK,2006,,,North Macedonia
+MK,2007,,30.0,North Macedonia
+MK,2008,8.3,31.1,North Macedonia
+MK,2009,13.5,32.5,North Macedonia
+MK,2010,13.5,34.2,North Macedonia
+MK,2011,13.9,33.1,North Macedonia
+MK,2012,15.8,31.7,North Macedonia
+MK,2013,10.3,34.1,North Macedonia
+MK,2014,12.8,35.9,North Macedonia
+MK,2015,10.0,34.1,North Macedonia
+MK,2016,12.2,35.0,North Macedonia
+MK,2017,14.6,36.3,North Macedonia
+MK,2018,12.2,38.3,North Macedonia
+MK,2019,15.0,40.0,North Macedonia
+MK,2020,16.7,35.8,North Macedonia
+MK,2021,16.7,40.2,North Macedonia
+MK,2022,,,North Macedonia
+MT,2003,,,Malta
+MT,2004,15.8,9.4,Malta
+MT,2005,16.7,9.4,Malta
+MT,2006,15.8,9.4,Malta
+MT,2007,15.8,9.4,Malta
+MT,2008,13.3,8.7,Malta
+MT,2009,13.3,8.7,Malta
+MT,2010,15.4,8.7,Malta
+MT,2011,14.3,8.7,Malta
+MT,2012,15.4,8.7,Malta
+MT,2013,8.7,14.3,Malta
+MT,2014,8.7,12.9,Malta
+MT,2015,8.7,13.0,Malta
+MT,2016,13.0,13.0,Malta
+MT,2017,12.0,14.5,Malta
+MT,2018,12.0,14.5,Malta
+MT,2019,8.7,14.9,Malta
+MT,2020,7.7,13.4,Malta
+MT,2021,11.5,13.4,Malta
+MT,2022,20.0,27.8,Malta
+NL,2003,38.5,36.3,Netherlands
+NL,2004,36.0,36.3,Netherlands
+NL,2005,34.8,35.4,Netherlands
+NL,2006,31.8,34.1,Netherlands
+NL,2007,40.7,37.3,Netherlands
+NL,2008,40.7,39.1,Netherlands
+NL,2009,40.7,39.6,Netherlands
+NL,2010,35.7,38.7,Netherlands
+NL,2011,20.0,39.1,Netherlands
+NL,2012,35.0,37.5,Netherlands
+NL,2013,40.0,37.3,Netherlands
+NL,2014,40.0,36.9,Netherlands
+NL,2015,35.0,36.9,Netherlands
+NL,2016,35.0,36.9,Netherlands
+NL,2017,41.7,36.0,Netherlands
+NL,2018,41.7,33.8,Netherlands
+NL,2019,43.5,35.1,Netherlands
+NL,2020,48.0,32.9,Netherlands
+NL,2021,30.4,37.8,Netherlands
+NL,2022,48.3,36.0,Netherlands
+NO,2003,47.1,36.8,Norway
+NO,2004,36.4,38.0,Norway
+NO,2005,36.2,35.5,Norway
+NO,2006,45.0,34.7,Norway
+NO,2007,46.6,34.9,Norway
+NO,2008,42.9,36.1,Norway
+NO,2009,44.8,38.5,Norway
+NO,2010,45.3,39.1,Norway
+NO,2011,46.9,39.6,Norway
+NO,2012,44.6,39.6,Norway
+NO,2013,33.3,38.5,Norway
+NO,2014,33.3,38.7,Norway
+NO,2015,39.1,39.6,Norway
+NO,2016,38.8,39.6,Norway
+NO,2017,40.0,40.8,Norway
+NO,2018,42.4,40.8,Norway
+NO,2019,38.4,40.8,Norway
+NO,2020,44.1,40.8,Norway
+NO,2021,47.7,45.0,Norway
+NO,2022,43.3,45.0,Norway
+PL,2003,,,Poland
+PL,2004,6.3,21.5,Poland
+PL,2005,14.3,21.1,Poland
+PL,2006,20.0,18.1,Poland
+PL,2007,18.3,18.6,Poland
+PL,2008,20.7,18.1,Poland
+PL,2009,21.5,17.9,Poland
+PL,2010,18.1,17.5,Poland
+PL,2011,20.2,22.0,Poland
+PL,2012,26.3,22.0,Poland
+PL,2013,27.7,22.3,Poland
+PL,2014,29.6,21.5,Poland
+PL,2015,29.1,24.6,Poland
+PL,2016,17.6,25.5,Poland
+PL,2017,18.9,25.9,Poland
+PL,2018,17.0,26.1,Poland
+PL,2019,15.1,27.9,Poland
+PL,2020,20.4,27.7,Poland
+PL,2021,19.4,27.5,Poland
+PL,2022,20.2,27.5,Poland
+PT,2003,18.9,20.5,Portugal
+PT,2004,13.5,19.7,Portugal
+PT,2005,13.0,25.3,Portugal
+PT,2006,10.2,24.9,Portugal
+PT,2007,9.8,28.7,Portugal
+PT,2008,11.1,28.7,Portugal
+PT,2009,16.4,29.6,Portugal
+PT,2010,18.2,30.4,Portugal
+PT,2011,16.7,29.1,Portugal
+PT,2012,14.3,29.1,Portugal
+PT,2013,14.3,31.3,Portugal
+PT,2014,14.3,31.3,Portugal
+PT,2015,33.9,34.3,Portugal
+PT,2016,32.2,34.3,Portugal
+PT,2017,32.8,35.2,Portugal
+PT,2018,36.1,36.4,Portugal
+PT,2019,37.1,40.4,Portugal
+PT,2020,38.6,39.5,Portugal
+PT,2021,37.1,40.9,Portugal
+PT,2022,35.1,35.7,Portugal
+RO,2003,15.0,10.3,Romania
+RO,2004,17.6,10.5,Romania
+RO,2005,15.2,10.7,Romania
+RO,2006,13.5,10.5,Romania
+RO,2007,0.0,9.4,Romania
+RO,2008,0.0,10.4,Romania
+RO,2009,18.2,9.8,Romania
+RO,2010,11.8,9.8,Romania
+RO,2011,16.7,9.6,Romania
+RO,2012,19.0,9.9,Romania
+RO,2013,21.4,11.7,Romania
+RO,2014,20.0,11.9,Romania
+RO,2015,35.0,12.1,Romania
+RO,2016,36.4,12.0,Romania
+RO,2017,21.4,19.1,Romania
+RO,2018,33.3,19.6,Romania
+RO,2019,17.6,19.8,Romania
+RO,2020,16.7,20.0,Romania
+RO,2021,7.1,20.0,Romania
+RO,2022,9.1,20.0,Romania
+RS,2003,,,Serbia
+RS,2004,,,Serbia
+RS,2005,,,Serbia
+RS,2006,,,Serbia
+RS,2007,,20.8,Serbia
+RS,2008,18.5,22.4,Serbia
+RS,2009,18.5,22.4,Serbia
+RS,2010,18.5,22.4,Serbia
+RS,2011,14.3,24.4,Serbia
+RS,2012,26.3,32.4,Serbia
+RS,2013,13.6,34.1,Serbia
+RS,2014,21.1,33.6,Serbia
+RS,2015,21.1,33.6,Serbia
+RS,2016,25.0,34.0,Serbia
+RS,2017,22.7,36.4,Serbia
+RS,2018,22.7,37.6,Serbia
+RS,2019,22.7,37.6,Serbia
+RS,2020,45.8,39.4,Serbia
+RS,2021,45.8,39.6,Serbia
+RS,2022,,,Serbia
+SE,2003,52.4,45.0,Sweden
+SE,2004,43.5,47.9,Sweden
+SE,2005,46.2,48.9,Sweden
+SE,2006,42.9,47.4,Sweden
+SE,2007,45.5,47.3,Sweden
+SE,2008,45.5,46.4,Sweden
+SE,2009,45.5,46.4,Sweden
+SE,2010,45.8,45.6,Sweden
+SE,2011,50.0,45.0,Sweden
+SE,2012,54.2,43.6,Sweden
+SE,2013,54.2,44.4,Sweden
+SE,2014,50.0,43.6,Sweden
+SE,2015,50.0,43.6,Sweden
+SE,2016,50.0,45.8,Sweden
+SE,2017,52.2,46.1,Sweden
+SE,2018,52.2,46.7,Sweden
+SE,2019,52.2,47.6,Sweden
+SE,2020,52.2,49.6,Sweden
+SE,2021,50.0,47.6,Sweden
+SE,2022,45.8,46.4,Sweden
+SI,2003,18.8,11.7,Slovenia
+SI,2004,7.1,11.2,Slovenia
+SI,2005,6.7,11.7,Slovenia
+SI,2006,6.3,11.7,Slovenia
+SI,2007,17.5,9.4,Slovenia
+SI,2008,22.5,10.0,Slovenia
+SI,2009,35.7,11.5,Slovenia
+SI,2010,35.7,11.7,Slovenia
+SI,2011,26.7,12.3,Slovenia
+SI,2012,18.4,26.9,Slovenia
+SI,2013,29.3,25.4,Slovenia
+SI,2014,40.5,28.7,Slovenia
+SI,2015,46.2,26.2,Slovenia
+SI,2016,50.0,26.9,Slovenia
+SI,2017,43.4,26.9,Slovenia
+SI,2018,35.2,22.3,Slovenia
+SI,2019,35.2,22.1,Slovenia
+SI,2020,25.9,21.2,Slovenia
+SI,2021,25.4,22.1,Slovenia
+SI,2022,37.7,29.5,Slovenia
+SK,2003,0.0,18.7,Slovakia
+SK,2004,10.8,16.8,Slovakia
+SK,2005,12.1,17.4,Slovakia
+SK,2006,15.4,20.8,Slovakia
+SK,2007,14.3,18.7,Slovakia
+SK,2008,14.3,18.7,Slovakia
+SK,2009,17.1,18.0,Slovakia
+SK,2010,14.8,16.0,Slovakia
+SK,2011,16.7,16.0,Slovakia
+SK,2012,8.6,18.7,Slovakia
+SK,2013,8.3,18.7,Slovakia
+SK,2014,5.6,20.0,Slovakia
+SK,2015,8.1,20.0,Slovakia
+SK,2016,17.1,20.5,Slovakia
+SK,2017,22.0,21.3,Slovakia
+SK,2018,25.0,20.7,Slovakia
+SK,2019,22.5,20.7,Slovakia
+SK,2020,22.0,22.7,Slovakia
+SK,2021,19.5,21.3,Slovakia
+SK,2022,19.4,22.0,Slovakia
+TR,2003,,,Türkiye
+TR,2004,4.8,,Türkiye
+TR,2005,4.5,4.4,Türkiye
+TR,2006,4.5,2.6,Türkiye
+TR,2007,4.0,9.1,Türkiye
+TR,2008,4.0,9.1,Türkiye
+TR,2009,7.4,9.0,Türkiye
+TR,2010,7.4,8.9,Türkiye
+TR,2011,3.8,14.4,Türkiye
+TR,2012,3.8,14.4,Türkiye
+TR,2013,3.8,14.4,Türkiye
+TR,2014,3.8,14.4,Türkiye
+TR,2015,7.7,14.9,Türkiye
+TR,2016,3.7,14.7,Türkiye
+TR,2017,7.4,14.0,Türkiye
+TR,2018,11.1,17.4,Türkiye
+TR,2019,11.1,17.3,Türkiye
+TR,2020,11.1,17.3,Türkiye
+TR,2021,5.3,17.3,Türkiye
+TR,2022,,,Türkiye
+UK,2003,30.8,17.2,United Kingdom
+UK,2004,25.5,17.9,United Kingdom
+UK,2005,27.5,19.1,United Kingdom
+UK,2006,24.6,19.1,United Kingdom
+UK,2007,32.6,19.6,United Kingdom
+UK,2008,34.4,19.6,United Kingdom
+UK,2009,28.8,19.9,United Kingdom
+UK,2010,13.9,21.5,United Kingdom
+UK,2011,16.5,22.0,United Kingdom
+UK,2012,18.2,22.3,United Kingdom
+UK,2013,19.8,23.0,United Kingdom
+UK,2014,24.8,23.7,United Kingdom
+UK,2015,25.2,27.2,United Kingdom
+UK,2016,23.7,27.6,United Kingdom
+UK,2017,26.5,28.7,United Kingdom
+UK,2018,30.8,28.9,United Kingdom
+UK,2019,32.8,29.5,United Kingdom
+UK,2020,33.1,30.6,United Kingdom
+UK,2021,33.1,31.1,United Kingdom
+UK,2022,,,United Kingdom
+XK,2003,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2004,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2005,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2006,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2007,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2008,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2009,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2010,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2011,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2012,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2013,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2014,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2015,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2016,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2017,,,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2018,6.0,31.9,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2019,10.5,32.5,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2020,13.6,32.5,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2021,27.0,34.2,Kosovo (under United Nations Security Council Resolution 1244/99)
+XK,2022,,,Kosovo (under United Nations Security Council Resolution 1244/99)
